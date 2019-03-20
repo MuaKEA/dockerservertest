@@ -5,7 +5,7 @@
 
 FROM ubuntu:latest
 
-MAINTAINER Meir Wahnon
+MAINTAINER DMZ
 
 RUN apt-get update
 
